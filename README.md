@@ -13,7 +13,6 @@ A simple and responsive currency converter built using **HTML**, **CSS**, and **
 
 ![Currency Converter Screenshot](./screenshot.png)
 
-> *(Make sure your image file is named `screenshot.png` and added to the root of your repository)*
 
 ## 🔗 Live Demo
 
