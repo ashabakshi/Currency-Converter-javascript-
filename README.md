@@ -15,9 +15,9 @@ A simple and responsive currency converter built using **HTML**, **CSS**, and **
 
 > *(Make sure your image file is named `screenshot.png` and added to the root of your repository)*
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-👉 [Live Project](https://ashabakshi.github.io/Currency-Converter-javascript-/)
+[Click here to try it! 🚀](https://ashabakshi.github.io/Currency-Converter-javascript-/)
 
 ## 🛠️ Built With
 
