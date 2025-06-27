@@ -16,7 +16,7 @@ A simple and responsive currency converter built using **HTML**, **CSS**, and **
 
 ## 🔗 Live Demo
 
-[Click here to try it! 🚀](https://ashabakshi.github.io/Currency-Converter-javascript-/)
+[Click here to try it! 🚀](https://github.com/ashabakshi/Currency-Converter-javascript-/)
 
 ## 🛠️ Built With
 
